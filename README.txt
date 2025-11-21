@@ -1,0 +1,1 @@
+This archive contains site templates and assets (no logo.png and no /data/default.json). Place your logo at assets/images/logo.png and your product JSON at /data/default.json (relative to site base).
